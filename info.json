@@ -1,0 +1,9 @@
+{
+  "name": "factorissimo2-cheaperFactories-ezonius",
+  "version": "1.0.0",
+  "title": "Factorissimo 2 - cheaper factory buildings (ezonius)",
+  "author": "ezonius",
+  "description": "Cheaper recipes for factorissimo 2 (notnotmelon fork), this is a fork that makes SE mods optional dependent",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 1.0.0", "factorissimo-2-notnotmelon >= 1.1.0", "? space-factorissimo-updated >= 1.0.2"]
+}
