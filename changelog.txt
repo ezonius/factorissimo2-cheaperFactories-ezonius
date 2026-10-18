@@ -1,6 +1,7 @@
 ﻿---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 2024-12-01
-  Changes:
-    - First change
+Date: 2026-08-19
+  Features:
+    - Divides the ingredient cost of the Factorissimo 2 factory buildings (factory-1/2/3, space factory
+      and space gravimetric factory recipes) by 10 (rounded up), and their crafting energy by 3.
 ---------------------------------------------------------------------------------------------------
